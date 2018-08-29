@@ -18,7 +18,7 @@ const router = new VueRouter({
     base: '',
     routes: [
         {
-            path: '/',
+            path: '../index.html',
             components: Customers
         },
         {
